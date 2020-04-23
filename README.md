@@ -1,1 +1,1 @@
-# tensor00 Р—Р°РґР°РЅРёРµ РѕС‚ С‚РµРЅР·РѕСЂ 00.РЎР°Р№С‚ РЅР° node.js  http://localhost:3000/ . Р’ СЂР°Р±РѕС‚Рµ РёСЃРїРѕР»СЊР·РѕРІР°Р» index.html,index.css,index.js, С„Р°Р№Р» .gitignore .
+# tensor00 Задание от тензор 00.Сайт на node.js http://localhost:3000/ . В работе использовал index.html,index.css,index.js, файл .gitignore .
